@@ -57,7 +57,7 @@ To install all the dependences of the project, run the following command:
 
 ```
 
-cd /home/workspace/Saurav-Frontend-Developer
+cd /home/workspace/EnableCap-assignment
 npm i
 ```
 
@@ -66,7 +66,7 @@ To run the application, run the following command:
 
 ```
 ###For Backend
-cd /home/workspace/Saurav-Frontend-Developer/backend
+cd /home/workspace/EnableCap-assignment
 npm start
 ```
 
