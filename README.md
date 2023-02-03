@@ -1,11 +1,11 @@
 # EnableCap-assignment
 
 # deployed links:
-## backend: ``` https://enable-cap-assignment.vercel.app/ ```
+## ``` https://enable-cap-assignment.vercel.app/ ```
 
 
 ## Tech Stack
-# Backend:
+#
 NodeJs,ExpressJs, MongoDB
 
 
@@ -65,7 +65,7 @@ npm i
 To run the application, run the following command:
 
 ```
-###For Backend
+
 cd /home/workspace/EnableCap-assignment
 npm start
 ```
